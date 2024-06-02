@@ -24,3 +24,7 @@ JavaScript: JavaScript is used for game logic and interactivity.
 # How To Play
 
 Link: https://yxyyy0302.github.io/candy/
+
+# Comments 
+
+I deployed this using gh-pages so my actual code was unable to be uploaded here.

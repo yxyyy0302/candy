@@ -20,3 +20,7 @@ React: The game is built using React, a JavaScript library for building user int
 HTML/CSS: Basic HTML and CSS are used for styling and layout.
 
 JavaScript: JavaScript is used for game logic and interactivity.
+
+# How To Play
+
+Link: https://yxyyy0302.github.io/candy/
